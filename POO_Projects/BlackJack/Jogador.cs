@@ -11,15 +11,25 @@ public class Jogador {
         random = new Random();
         cartas.Add(new Carta(random.Next(1, 12)));
         cartas.Add(new Carta(random.Next(1, 12)));
+
+        score = (cartas[0].getNum()) + (cartas[1].getNum());
     }
 
     public void pedirCarta(){
         int picked = random.Next(1, 12);
         cartas.Add(new Carta(picked));
+        score += cartas[cartas.Count -1].getNum();
     }
 
     public bool parar(){ 
         return false;   
+    }
+
+    public void mostrarCartas(){
+        Console.Write("| ");
+        foreach (var card in cartas){
+            Console.Write(card.getNum() + " | ");
+        }
     }
 
     public List<Carta> getCards() {
