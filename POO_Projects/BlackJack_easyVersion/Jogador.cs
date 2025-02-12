@@ -1,33 +1,29 @@
 using System; 
+using System.Collections.Generic;
+using System.Linq;
 public class Jogador {
-    private ArrayList<Carta> cartas;
+    private List<Carta> cartas;
     private int score;
+    private Random random;
 
-    Random random = new Random();
-
-    Jogador() {
-        cartas = new ArrayList<Carta>;
-        int picked1 = random.Next(0, 12);
-        int picked2 = random.Next(0, 12);
-
-        cartas.add(picked1, picked2);
+    public Jogador() {
+        cartas = new List<Carta>();
+        random = new Random();
+        cartas.Add(new Carta(random.Next(1, 12)));
+        cartas.Add(new Carta(random.Next(1, 12)));
     }
 
     public void pedirCarta(){
-        int picked = random.Next(0, 12);
-        caratas.add(new carta(picked));
+        int picked = random.Next(1, 12);
+        cartas.Add(new Carta(picked));
     }
 
     public bool parar(){ 
         return false;   
     }
 
-    public ArrayList<Card> getCards() {
+    public List<Carta> getCards() {
         return cartas;
-    }
-
-    public void setCards(ArrayList<Carta> cartas) {
-        this.cartas = cartas;
     }
 
     public int getScore() {

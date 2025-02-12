@@ -1,0 +1,15 @@
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/obj/Debug/net8.0/BlackJack_easyVersion.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/obj/Debug/net8.0/BlackJack_easyVersion.AssemblyInfoInputs.cache
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/obj/Debug/net8.0/BlackJack_easyVersion.AssemblyInfo.cs
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/obj/Debug/net8.0/BlackJack_easyVersion.csproj.CoreCompileInputs.cache
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/obj/Debug/net8.0/BlackJack_easyVersion.sourcelink.json
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/bin/Debug/net8.0/BlackJack_easyVersion
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/bin/Debug/net8.0/BlackJack_easyVersion.deps.json
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/bin/Debug/net8.0/BlackJack_easyVersion.runtimeconfig.json
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/bin/Debug/net8.0/BlackJack_easyVersion.dll
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/bin/Debug/net8.0/BlackJack_easyVersion.pdb
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/obj/Debug/net8.0/BlackJack_easyVersion.dll
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/obj/Debug/net8.0/refint/BlackJack_easyVersion.dll
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/obj/Debug/net8.0/BlackJack_easyVersion.pdb
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/obj/Debug/net8.0/BlackJack_easyVersion.genruntimeconfig.cache
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/obj/Debug/net8.0/ref/BlackJack_easyVersion.dll

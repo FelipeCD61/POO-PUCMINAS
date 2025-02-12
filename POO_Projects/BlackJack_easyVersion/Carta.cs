@@ -1,8 +1,9 @@
 using System;
+using System.Linq;
 public class Carta {
     private int number;
 
-    Carta(int n) {
+    public Carta(int n) {
         number = n;
     }
 
