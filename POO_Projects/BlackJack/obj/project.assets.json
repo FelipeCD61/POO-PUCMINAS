@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/BlackJack_easyVersion.csproj",
-      "projectName": "BlackJack_easyVersion",
-      "projectPath": "/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/BlackJack_easyVersion.csproj",
+      "projectUniqueName": "/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/BlackJack.csproj",
+      "projectName": "BlackJack",
+      "projectPath": "/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/BlackJack.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/POO-PUCMINAS/POO_Projects/BlackJack_easyVersion/obj/",
+      "outputPath": "/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/bin/Debug/net8.0/BlackJack
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/bin/Debug/net8.0/BlackJack.deps.json
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/bin/Debug/net8.0/BlackJack.runtimeconfig.json
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/bin/Debug/net8.0/BlackJack.dll
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/bin/Debug/net8.0/BlackJack.pdb
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/obj/Debug/net8.0/BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/obj/Debug/net8.0/BlackJack.AssemblyInfoInputs.cache
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/obj/Debug/net8.0/BlackJack.AssemblyInfo.cs
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/obj/Debug/net8.0/BlackJack.csproj.CoreCompileInputs.cache
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/obj/Debug/net8.0/BlackJack.sourcelink.json
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/obj/Debug/net8.0/BlackJack.dll
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/obj/Debug/net8.0/refint/BlackJack.dll
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/obj/Debug/net8.0/BlackJack.pdb
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/obj/Debug/net8.0/BlackJack.genruntimeconfig.cache
+/workspaces/POO-PUCMINAS/POO_Projects/BlackJack/obj/Debug/net8.0/ref/BlackJack.dll
