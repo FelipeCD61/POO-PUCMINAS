@@ -3,7 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 class Jogo21{
     public static void Main (String[] args){
-        while(true){
+        
+    int gameScorePC=0,gameScoreYou=0;
+
+        while(true){    
+
             Jogador jogadorYou = new Jogador();
             Jogador jogadorPC = new Jogador();
 
@@ -50,22 +54,42 @@ class Jogo21{
             int next21PC = Math.Abs(21 - jogadorPC.getScore());
             
             if(jogadorYou.getScore()>21 && jogadorPC.getScore()>21){
-                Console.WriteLine("Ninguém venceu...");
-            } else if(jogadorYou.getScore()>21 && jogadorPC.getScore()<=21){
-                Console.WriteLine("O computador venceu!");
-            } else if (jogadorPC.getScore() > 21){
-                Console.WriteLine("Você venceu!");
-            } else {
+                Console.WriteLine("\nNinguém venceu...");
+            } 
+            else if(jogadorYou.getScore()>21 && jogadorPC.getScore()<=21){
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("\nO computador venceu!");
+                Console.ResetColor();
+                gameScorePC++;
+            } 
+            else if (jogadorPC.getScore() > 21){
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("\nVocê venceu!");
+                Console.ResetColor();
+                gameScoreYou++;
+            } 
+            else {
                 Console.WriteLine();
                 if(next21You < next21PC){
+                    Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine("Você venceu!");
-                } else if(next21PC < next21You){
+                    Console.ResetColor();
+                    gameScoreYou++;
+                } 
+                else if(next21PC < next21You){
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("O computador venceu!");
-                } else {
-                    Console.WriteLine("Empate");
+                    Console.ResetColor();
+                    gameScorePC++;
+                } 
+                else {
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.WriteLine("Empatou!");
+                    Console.ResetColor();
                 }
             }
 
+            Console.WriteLine($"\nJogador {gameScoreYou} X {gameScorePC} Computador");
 
             Console.WriteLine("\nJogar mais? \n1 - sim \n2 - não");
             int more = int.Parse(Console.ReadLine());
