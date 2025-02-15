@@ -15,6 +15,11 @@ class Jogo21{
             bool statusPC = true;
 
             while(statusPlayer){ //Loop do jogador
+                if(jogadorYou.getScore() > 21) {
+                    Console.WriteLine("Sua pontuação estorou!");
+                    break;
+                }
+
                 int op=0;
                 Console.WriteLine("\nSuas cartas:");
                 jogadorYou.mostrarCartas();
@@ -22,7 +27,10 @@ class Jogo21{
                 do{
                     Console.WriteLine("\nO que deseja? \n1 - Pedir Cartas \n2 - Parar");
                     op = int.Parse(Console.ReadLine());
+                    
                 }while(op < 1 || op > 2);
+
+                
 
                 switch(op) {
                     case 1:
