@@ -1,0 +1,15 @@
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Calculadora/obj/Debug/net8.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfoInputs.cache
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfo.cs
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Calculadora/obj/Debug/net8.0/Calculadora.csproj.CoreCompileInputs.cache
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Calculadora/obj/Debug/net8.0/Calculadora.sourcelink.json
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Calculadora/bin/Debug/net8.0/Calculadora
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Calculadora/bin/Debug/net8.0/Calculadora.deps.json
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Calculadora/bin/Debug/net8.0/Calculadora.runtimeconfig.json
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Calculadora/bin/Debug/net8.0/Calculadora.dll
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Calculadora/bin/Debug/net8.0/Calculadora.pdb
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Calculadora/obj/Debug/net8.0/Calculadora.dll
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Calculadora/obj/Debug/net8.0/refint/Calculadora.dll
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Calculadora/obj/Debug/net8.0/Calculadora.pdb
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Calculadora/obj/Debug/net8.0/Calculadora.genruntimeconfig.cache
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Calculadora/obj/Debug/net8.0/ref/Calculadora.dll

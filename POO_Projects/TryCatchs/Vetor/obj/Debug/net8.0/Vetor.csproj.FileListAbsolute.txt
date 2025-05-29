@@ -1,0 +1,15 @@
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Vetor/bin/Debug/net8.0/Vetor
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Vetor/bin/Debug/net8.0/Vetor.deps.json
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Vetor/bin/Debug/net8.0/Vetor.runtimeconfig.json
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Vetor/bin/Debug/net8.0/Vetor.dll
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Vetor/bin/Debug/net8.0/Vetor.pdb
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Vetor/obj/Debug/net8.0/Vetor.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Vetor/obj/Debug/net8.0/Vetor.AssemblyInfoInputs.cache
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Vetor/obj/Debug/net8.0/Vetor.AssemblyInfo.cs
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Vetor/obj/Debug/net8.0/Vetor.csproj.CoreCompileInputs.cache
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Vetor/obj/Debug/net8.0/Vetor.sourcelink.json
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Vetor/obj/Debug/net8.0/Vetor.dll
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Vetor/obj/Debug/net8.0/refint/Vetor.dll
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Vetor/obj/Debug/net8.0/Vetor.pdb
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Vetor/obj/Debug/net8.0/Vetor.genruntimeconfig.cache
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Vetor/obj/Debug/net8.0/ref/Vetor.dll

@@ -1,0 +1,15 @@
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Primo/bin/Debug/net8.0/Primo
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Primo/bin/Debug/net8.0/Primo.deps.json
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Primo/bin/Debug/net8.0/Primo.runtimeconfig.json
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Primo/bin/Debug/net8.0/Primo.dll
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Primo/bin/Debug/net8.0/Primo.pdb
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Primo/obj/Debug/net8.0/Primo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Primo/obj/Debug/net8.0/Primo.AssemblyInfoInputs.cache
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Primo/obj/Debug/net8.0/Primo.AssemblyInfo.cs
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Primo/obj/Debug/net8.0/Primo.csproj.CoreCompileInputs.cache
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Primo/obj/Debug/net8.0/Primo.sourcelink.json
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Primo/obj/Debug/net8.0/Primo.dll
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Primo/obj/Debug/net8.0/refint/Primo.dll
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Primo/obj/Debug/net8.0/Primo.pdb
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Primo/obj/Debug/net8.0/Primo.genruntimeconfig.cache
+/workspaces/POO-PUCMINAS/POO_Projects/TryCatchs/Primo/obj/Debug/net8.0/ref/Primo.dll
