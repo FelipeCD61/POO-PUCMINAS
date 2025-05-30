@@ -23,7 +23,7 @@ public class Program
             try
             {
                 Console.Write("Digite um número (ou 'sair' para encerrar): ");
-                string entrada = Console.ReadLine();
+                double entrada = double.Parse(Console.ReadLine());
 
                 if (entrada.ToLower() == "sair")
                 {
@@ -31,43 +31,33 @@ public class Program
                     break;
                 }
 
-                // a) Tratamento de exceção para lidar com a entrada de dados
-                numeroAtual = double.Parse(entrada);
+                num = double.Parse(entrada);
 
-                // Verifica se adicionar o próximo número ultrapassaria 100
-                if (soma + numeroAtual > 100)
+                if (soma + num > 100)
                 {
-                    // c) Lança a exceção ExcecaoAcimaDeCem quando a soma for superior a 100
-                    throw new ExcecaoAcimaDeCem($"A soma ({soma} + {numeroAtual}) excederia 100. A soma atual é {soma}.");
+                    throw new ExcecaoAcimaDeCem($"A soma ({soma} + {num}) excederia 100. A soma atual é {soma}.");
                 }
 
-                soma += numeroAtual;
+                soma += num;
                 contador++;
             }
             catch (FormatException)
             {
-                Console.WriteLine("Erro: Entrada inválida. Por favor, digite um número real ou 'sair'.");
-            }
-            catch (OverflowException)
-            {
-                Console.WriteLine("Erro: O número digitado é muito grande ou muito pequeno. Tente novamente.");
+                Console.WriteLine("Digite um número real ou 'sair'.");
             }
             catch (ExcecaoAcimaDeCem ex)
             {
                 Console.WriteLine($"\n{ex.Message}");
-                // A exceção foi lançada, então a soma já atingiu ou ultrapassou 100.
-                // Não adicionamos o último número que causaria o estouro.
-                break; // Sai do loop após a exceção personalizada
+                break; 
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Ocorreu um erro inesperado: {ex.Message}");
+                Console.WriteLine($"Erro inédito: {ex.Message}");
             }
         }
 
-        Console.WriteLine($"\n--- Resultados Finais ---");
         Console.WriteLine($"Soma total (antes de ultrapassar 100): {soma:F2}");
-        Console.WriteLine($"Número de valores somados: {contador}");
+        Console.WriteLine($"Número de valores somados: {int.Parse(contador)}");
 
         if (contador > 0)
         {

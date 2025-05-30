@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Programas\POO\Exercícios\POO-PUCMINAS\POO_Projects\TryCatchs\ToCem\bin\Debug\net8.0\ToCem.exe
+C:\Users\User\Desktop\Programas\POO\Exercícios\POO-PUCMINAS\POO_Projects\TryCatchs\ToCem\bin\Debug\net8.0\ToCem.deps.json
+C:\Users\User\Desktop\Programas\POO\Exercícios\POO-PUCMINAS\POO_Projects\TryCatchs\ToCem\bin\Debug\net8.0\ToCem.runtimeconfig.json
+C:\Users\User\Desktop\Programas\POO\Exercícios\POO-PUCMINAS\POO_Projects\TryCatchs\ToCem\bin\Debug\net8.0\ToCem.dll
+C:\Users\User\Desktop\Programas\POO\Exercícios\POO-PUCMINAS\POO_Projects\TryCatchs\ToCem\bin\Debug\net8.0\ToCem.pdb
+C:\Users\User\Desktop\Programas\POO\Exercícios\POO-PUCMINAS\POO_Projects\TryCatchs\ToCem\obj\Debug\net8.0\ToCem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programas\POO\Exercícios\POO-PUCMINAS\POO_Projects\TryCatchs\ToCem\obj\Debug\net8.0\ToCem.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programas\POO\Exercícios\POO-PUCMINAS\POO_Projects\TryCatchs\ToCem\obj\Debug\net8.0\ToCem.AssemblyInfo.cs
+C:\Users\User\Desktop\Programas\POO\Exercícios\POO-PUCMINAS\POO_Projects\TryCatchs\ToCem\obj\Debug\net8.0\ToCem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programas\POO\Exercícios\POO-PUCMINAS\POO_Projects\TryCatchs\ToCem\obj\Debug\net8.0\ToCem.sourcelink.json
+C:\Users\User\Desktop\Programas\POO\Exercícios\POO-PUCMINAS\POO_Projects\TryCatchs\ToCem\obj\Debug\net8.0\ToCem.dll
+C:\Users\User\Desktop\Programas\POO\Exercícios\POO-PUCMINAS\POO_Projects\TryCatchs\ToCem\obj\Debug\net8.0\refint\ToCem.dll
+C:\Users\User\Desktop\Programas\POO\Exercícios\POO-PUCMINAS\POO_Projects\TryCatchs\ToCem\obj\Debug\net8.0\ToCem.pdb
+C:\Users\User\Desktop\Programas\POO\Exercícios\POO-PUCMINAS\POO_Projects\TryCatchs\ToCem\obj\Debug\net8.0\ToCem.genruntimeconfig.cache
+C:\Users\User\Desktop\Programas\POO\Exercícios\POO-PUCMINAS\POO_Projects\TryCatchs\ToCem\obj\Debug\net8.0\ref\ToCem.dll
